@@ -14,15 +14,15 @@
   <br>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  ☕ Linguagens: <strong> Estudando HTML e CSS. Verei NODEJS, MongoDB, AngularJS, Typescript e REACT .</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>VSCODE, BootStrap, W3School.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Fico a disposição para contatos: ⤵️
 </p>
 
 <p align="left">
