@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador victorninck">
 
 <p align="left"> 
-  Olá me chamo é Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, próximo a São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focada e Colaborativa. <strong>Sou Estudante na área de FullStack DEVELOPER</strong>.<br>
+  Olá me chamo Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, próximo a São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focada e Colaborativa. <strong>Sou Estudante na área de FullStack DEVELOPER</strong>.<br>
   No momento estudo Front-end. 
 </p>
 
