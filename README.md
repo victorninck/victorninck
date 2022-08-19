@@ -2,15 +2,16 @@
 
 <p align="left"> 
   Olá meu nome é Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, cidade vizinha de São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focado e Colaborativa. <strong>Sou Estudante na área de FullStack</strong>.<br>
-  No momento estudo Front-end.  nível Superior em Redes de Computadores, .
+  No momento estudo Front-end. 
 </p>
 
 <p align="Left"> ✅ Minhas Formações: </p>
    <ul>
   <li>-Formado nível Superior em Redes de Computadores (2020)</li>
   <li>-Cursando Pós-Graduação em Cybersecurity</li>
-  <li>-Cursando Especialização em Desenvolvimento FULLSTACK pelo Instito <a>href="www.growdev.com.br" target="_blanck">GROWDEV.</a>
-  
+  <li>-Cursando Especialização em Desenvolvimento FULLSTACK DEVELOPER pelo Instituto <a href="www.growdev.com.br"; target="_blanck">GROWDEV.</a>
+        </ul>
+  <br>
 
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
