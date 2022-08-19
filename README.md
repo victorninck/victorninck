@@ -9,7 +9,7 @@
    <ul>
   <li>-Formado nível Superior em Redes de Computadores (2020)</li>
   <li>-Cursando Pós-Graduação em Cybersecurity</li>
-  <li>-Cursando Especialização em Desenvolvimento FULLSTACK DEVELOPER pelo Instituto <a href="www.growdev.com.br;" target="_blank;">GROWDEV.</a>
+  <li>-Cursando Especialização em Desenvolvimento FULLSTACK DEVELOPER pelo Instituto <a href="www.growdev.com.br" target="_blank;">GROWDEV.</a>
         </ul>
   <br>
 
