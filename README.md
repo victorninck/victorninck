@@ -7,7 +7,7 @@
 
 <p align="Left"> ✅ Minhas Formações: </p>
    <ul>
-  <li> Formado nível Superior em Redes de Computadores (2020)</li>
+  <li> Formado em Superior em Redes de Computadores (2020)</li>
   <li> Cursando Pós-Graduação em Cybersecurity</li>
   <li> Cursando Especialização em Desenvolvimento FULLSTACK DEVELOPER pelo Instituto <a href="http://www.growdev.com.br" target="_blank">GROWDEV.</a>
         </ul>
