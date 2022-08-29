@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador victorninck">
 
 <p align="left"> 
-  Olá me chamo Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, próximo a São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focada e Colaborativa. <strong>Sou Estudante na área de FullStack DEVELOPER</strong>.<br>
+  Olá me chamo Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, próximo a São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focada e Colaborativa. <strong>Sou Estudante na área de FullStack WEB DEVELOPER</strong>.<br>
   No momento estudo Front-end. 
 </p>
 
@@ -14,7 +14,7 @@
   <br>
 
 <p align="left">
-  ☕ Linguagens: <strong> Estudando HTML5 e CSS. Verei NODEJS, MongoDB, AngularJS, Typescript e REACT .</strong>
+  ☕ Linguagens: <strong> Estudando HTML5 e CSS. <br> Neste ano estudarei NODEJS, MongoDB, AngularJS, Typescript e REACT .</strong>
 </p>
 
 <p align="left">
