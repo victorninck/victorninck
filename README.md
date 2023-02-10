@@ -1,24 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador victorninck">
 
 <p align="left"> 
-  Olá me chamo Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, próximo a São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focada e Colaborativa. <strong>Sou Estudante na área de FullStack WEB DEVELOPER</strong>.<br>
-  No momento estudo Front-end. 
+  Olá me chamo Victor Vallet Ninck, moro em Ferraz de Vasconcelos/SP, próximo a São Paulo/SP. Me defino uma pessoa Tranquila, Compreensível, Focada e Colaborativa. <strong>Gosto de Ajudar as Pessoas com Problemas de Comunicação e Redes e aprender assuntos tecnólogicos</strong>.<br>
+  Aprofundando em Cybersecurity. 
 </p>
 
 <p align="Left"> ✅ Minhas Formações: </p>
    <ul>
   <li> Formado em Superior em Redes de Computadores (2020)</li>
-  <li> Cursando Pós-Graduação em Cybersecurity</li>
-  <li> Cursando Especialização em Desenvolvimento FULLSTACK DEVELOPER pelo Instituto <a href="http://www.growdev.com.br" target="_blank">GROWDEV.</a>
+  <li> Formado Pós-Graduação em Cybersecurity</li>
+  <li> Cursando Especialização em gerenciamento em <a href="http://www.mikrotik.com" target="_blank">MIKROTIK.</a>
         </ul>
   <br>
 
 <p align="left">
-  ☕ Linguagens: <strong> Estudando HTML5 e CSS. <br> Neste ano estudarei NODEJS, MongoDB, AngularJS, Typescript e REACT .</strong>
+  ☕ SoftSkills: <strong> HTML5/CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, BootStrap, W3School.</strong>
+  💼 Ferramentas: <strong>VSCODE, BootStrap, W3School, Microsoft365, HYPER-V, VBox.</strong>
 </p>
 
 <p align="left">
